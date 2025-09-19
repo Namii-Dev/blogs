@@ -1,5 +1,5 @@
 ---
-title: "Other account"
+title: "Other account 2"
 post_status: draft
 post_excerpt: "A short summary."
 taxonomy:
